@@ -1,0 +1,12 @@
+package servlet;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(name = "MyEjbServlet", value = "/MyEjbServlet")
+public class MyEjbServlet extends HttpServlet {
+	private void doGe() {
+		// TODO Auto-generated method stub
+
+	}
+}

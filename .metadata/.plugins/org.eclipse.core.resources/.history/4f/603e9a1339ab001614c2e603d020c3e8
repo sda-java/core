@@ -1,0 +1,15 @@
+package myEjb;
+
+import java.rmi.RemoteException;
+
+import javax.ejb.Stateless;
+
+@Stateless//(name="myEjb1")
+public class TestRemoteImpl implements TestRemote {
+	@Override
+	public String say(String x) throws RemoteException {
+		System.out.println(x);
+		
+		return hashCode() + "-" + x;
+	}
+}

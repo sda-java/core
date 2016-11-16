@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: death
+Class-Path: ejbs-1.0.jar myEjb-1.0.jar javax.ejb-api-3.2.jar javax.tra
+ nsaction-api-1.2.jar cdi-api-2.0-EDR2.jar javax.el-api-3.0.0.jar java
+ x.interceptor-api-1.2.jar javax.inject-1.jar
+Build-Jdk: 1.8.0_92
+Created-By: Maven Integration for Eclipse
+

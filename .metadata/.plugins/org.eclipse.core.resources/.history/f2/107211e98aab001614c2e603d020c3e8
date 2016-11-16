@@ -1,0 +1,39 @@
+package com.test;
+
+import java.io.IOException;
+
+import javax.ejb.EJB;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import myEjb.TestRemote;
+import myEjb.TestRemoteImpl;
+
+@WebServlet(name = "MyEjbServlet", urlPatterns = "/MyEjbServlet")
+public class MyEjbServlet extends HttpServlet {
+
+	// @EJB // (beanName = "TestRemoteImpl")
+	// private TestRemote testRemoteImpl;
+
+	@EJB(beanName = "myEjb1")
+	// @Inject
+	// @Named(value = "myEjb1")
+	private TestRemote testRemote;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+		// resp.getWriter().append(testRemoteImpl.say("xxaaaaa"));
+		resp.getWriter().append(new TestRemoteImpl().say("aaasss"));
+		resp.getWriter().append("\n");
+		try {
+			resp.getWriter().append(testRemote.say("xxaaaaa"));
+		} catch (Exception e) {
+			resp.getWriter().append(e.getMessage());
+		}
+		resp.getWriter().flush();
+	}
+}

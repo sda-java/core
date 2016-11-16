@@ -1,0 +1,10 @@
+package myEjb;
+
+import java.io.Serializable;
+
+import javax.ejb.Remote;
+
+@Remote
+public interface TestRemote extends Serializable {
+	String say(String x);
+}

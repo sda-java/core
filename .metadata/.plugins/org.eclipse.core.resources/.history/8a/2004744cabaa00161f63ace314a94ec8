@@ -1,0 +1,14 @@
+package myEjb;
+
+import javax.ejb.Stateful;
+import javax.ejb.Stateless;
+
+@Stateful
+public class TestRemoteImpl implements TestRemote {
+	private static final long serialVersionUID = 1L;
+
+	@Override
+	public String say() {
+		return "hi";
+	}
+}

@@ -1,0 +1,11 @@
+package myEjb;
+
+import java.io.Serializable;
+import java.rmi.RemoteException;
+
+import javax.ejb.Remote;
+
+
+public interface TestRemote extends Serializable {
+	String say(String x) throws RemoteException;
+}

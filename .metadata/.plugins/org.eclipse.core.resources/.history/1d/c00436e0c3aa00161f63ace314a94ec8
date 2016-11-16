@@ -1,0 +1,20 @@
+package myEjb;
+
+import java.rmi.RemoteException;
+
+import javax.ejb.Stateless;
+
+@Stateless
+@Remote(TestRemote.class)
+public class TestRemoteImpl implements TestRemote {
+	private static final long serialVersionUID = 1L;
+
+	public TestRemoteImpl() {
+	}
+
+	@Override
+	public String say(String x) throws RemoteException {
+		System.out.println(x);
+		return x;
+	}
+}

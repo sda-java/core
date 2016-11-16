@@ -1,0 +1,19 @@
+package servlet;
+
+import javax.ejb.EJB;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+import myEjb.MyTestRemote;
+
+@WebServlet(name = "MyEjbServlet", value = "/MyEjbServlet")
+public class MyEjbServlet extends HttpServlet {
+
+	@EJB
+	private MyTestRemote myTestRemote;
+
+	private void doGe() {
+		// TODO Auto-generated method stub
+
+	}
+}

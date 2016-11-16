@@ -1,0 +1,8 @@
+package myEjb;
+
+import javax.ejb.Local;
+
+@Remote
+public interface TestLocal {
+	public String say();
+}

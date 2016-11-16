@@ -1,0 +1,19 @@
+package client;
+
+import javax.naming.InitialContext;
+
+import myEjb.TestLocal;
+
+public class Test {
+	public static void main(String[] args) {
+		
+        java.util.Hashtable<String, String> hashTable = new Hashtable<String, String>();
+        hashTable.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.enterprise.naming.impl.SerialInitContextFactory");
+        hashTable.put(Context.STATE_FACTORIES, "com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl");
+        hashTable.put(Context.URL_PKG_PREFIXES, "com.sun.enterprise.naming");
+        Context ctx = new InitialContext(hashTable);
+        
+		TestLocal example = (TestLocal)
+		         InitialContext.lookup("java:module/ExampleLocal");
+	}
+}
