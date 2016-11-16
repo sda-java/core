@@ -1,0 +1,9 @@
+package myEjb;
+
+import javax.ejb.Local;
+import javax.ejb.Stateful;
+
+@Stateful
+public interface MySecondBeanImpl {
+
+}

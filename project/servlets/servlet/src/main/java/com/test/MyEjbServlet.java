@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import myEjb.MySecondBean;
 import myEjb.MyTestRemote;
 
 @WebServlet("/MyEjbServlet")
@@ -20,6 +21,9 @@ public class MyEjbServlet extends HttpServlet {
 	@EJB(beanName = "myEjb2")
 	private MyTestRemote myTestRemote2;
 
+	@EJB
+	private MySecondBean mySecondBean;
+
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		resp.getWriter().append("Test\n");
@@ -30,8 +34,18 @@ public class MyEjbServlet extends HttpServlet {
 			resp.getWriter().append(e.getMessage());
 		}
 
+		resp.getWriter().append("\n");
+
 		try {
 			resp.getWriter().append(myTestRemote2.say("zzzzzz2222"));
+		} catch (Exception e) {
+			resp.getWriter().append(e.getMessage());
+		}
+
+		resp.getWriter().append("\n");
+
+		try {
+			resp.getWriter().append("state: " + mySecondBean.getState());
 		} catch (Exception e) {
 			resp.getWriter().append(e.getMessage());
 		}

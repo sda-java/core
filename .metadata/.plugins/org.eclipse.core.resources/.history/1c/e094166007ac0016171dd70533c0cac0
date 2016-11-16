@@ -1,0 +1,9 @@
+package myEjb;
+
+import javax.ejb.Stateful;
+
+@Stateful
+public class MySecondBeanImpl {
+	private int state = 10;
+
+}

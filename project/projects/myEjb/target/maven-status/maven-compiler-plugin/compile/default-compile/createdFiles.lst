@@ -1,2 +1,4 @@
 myEjb\MyTestRemote.class
 myEjb\MyTestRemoteImpl.class
+myEjb\MySecondBean.class
+myEjb\MySecondBeanImpl.class
