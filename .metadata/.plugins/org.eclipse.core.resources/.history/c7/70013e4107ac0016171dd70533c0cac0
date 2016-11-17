@@ -1,5 +1,0 @@
-package myEjb;
-
-public interface MySecondBean {
-
-}

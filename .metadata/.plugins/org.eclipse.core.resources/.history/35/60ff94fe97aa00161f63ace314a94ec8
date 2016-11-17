@@ -1,8 +1,0 @@
-package client;
-
-public class Test {
-	public static void main(String[] args) {
-		ExampleLocal example = (ExampleLocal)
-		         InitialContext.lookup("java:module/ExampleLocal");
-	}
-}
