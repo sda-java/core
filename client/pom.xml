@@ -11,13 +11,30 @@
 			<artifactId>myEjb</artifactId>
 			<version>1.0</version>
 		</dependency>
-
+		
+		<!-- https://mvnrepository.com/artifact/org.glassfish.main.appclient/gf-client -->
 		<dependency>
-			<groupId>org.glassfish.main.appclient.client</groupId>
+			<groupId>org.glassfish.main.appclient</groupId>
 			<artifactId>gf-client</artifactId>
 			<version>4.1.1</version>
+		</dependency>
+
+
+
+		<dependency>
+			<groupId>org.glassfish.main.extras</groupId>
+			<artifactId>appserv-rt</artifactId>
+			<version>4.1.1</version>
 			<scope>system</scope>
-			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\gf-client.jar</systemPath>
+			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\appserv-rt.jar</systemPath>
+		</dependency>
+
+		<dependency>
+			<groupId>org.glassfish.main.extras</groupId>
+			<artifactId>javaee</artifactId>
+			<version>4.1.1</version>
+			<scope>system</scope>
+			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\javaee.jar</systemPath>
 		</dependency>
 
 	</dependencies>

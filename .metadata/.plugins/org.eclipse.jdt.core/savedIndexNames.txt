@@ -1,9 +1,3 @@
 INDEX VERSION 1.129+C:\Users\death\Documents\sda\core\.metadata\.plugins\org.eclipse.jdt.core
-262142283.index
-561723859.index
-4158978487.index
-810714212.index
-3234331216.index
 294531383.index
-3971921331.index
-1803366518.index
+810714212.index

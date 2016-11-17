@@ -1,2 +1,5 @@
 myEjb\TestRemote.class
 myEjb\TestRemoteImpl.class
+entities\LibraryPersistentBeanLocal.class
+entities\LibraryPersistentBeanLocalImpl.class
+entities\Book.class

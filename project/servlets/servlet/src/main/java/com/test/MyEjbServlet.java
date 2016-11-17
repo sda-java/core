@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import entities.LibraryPersistentBeanLocal;
 import myEjb.MySecondBean;
 import myEjb.MyTestRemote;
 
@@ -23,6 +24,9 @@ public class MyEjbServlet extends HttpServlet {
 
 	@EJB
 	private MySecondBean mySecondBean;
+
+	@EJB
+	private LibraryPersistentBeanLocal libraryPersistentBeanLocal;
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -46,6 +50,12 @@ public class MyEjbServlet extends HttpServlet {
 
 		try {
 			resp.getWriter().append("state: " + mySecondBean.getState());
+		} catch (Exception e) {
+			resp.getWriter().append(e.getMessage());
+		}
+
+		try {
+			resp.getWriter().append("books count: " + libraryPersistentBeanLocal.getBooks().size());
 		} catch (Exception e) {
 			resp.getWriter().append(e.getMessage());
 		}

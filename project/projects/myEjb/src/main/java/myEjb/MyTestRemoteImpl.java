@@ -4,7 +4,6 @@ import java.rmi.RemoteException;
 
 import javax.ejb.Stateless;
 
-//@SessionScoped
 @Stateless(name = "myEjb2")
 public class MyTestRemoteImpl implements MyTestRemote {
 	@Override

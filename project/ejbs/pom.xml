@@ -23,6 +23,23 @@
 			<groupId>root.project.projects</groupId>
 			<artifactId>myEjb</artifactId>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-entitymanager</artifactId>
+			<version>5.2.4.Final</version>
+		</dependency>
+
+<dependency>
+    <groupId>org.jboss.logging</groupId>
+    <artifactId>jboss-logging</artifactId>
+    <version>3.3.0.Final</version>
+    <scope>provided</scope>
+</dependency>
+
+
+
+
 	</dependencies>
 	<build>
 		<plugins>
