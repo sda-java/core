@@ -3192,3 +3192,1137 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 12:21:34.444
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:28.461
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:28.475
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.438
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.530
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.544
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.613
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.633
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.690
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.703
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:08:38.845
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2016-11-17 13:09:57.013
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-17 13:09:57.013
+!MESSAGE A conflict occurred for CTRL+J:
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.findIncremental,Incremental Find,
+		Incremental find,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@377b582b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@138d85f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@138d85f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2016-11-17 13:16:07.858
+!MESSAGE Full project indexing required:
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\charsets.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\access-bridge-64.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\cldrdata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\dnsns.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\jaccess.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\jfxrt.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\localedata.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\nashorn.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunec.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunjce_provider.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunmscapi.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\sunpkcs11.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\ext\zipfs.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\jce.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\jfr.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\jsse.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\resources.jar
+  [+] C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+  [+] C:\Users\death\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar
+  [+] C:\Users\death\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar
+  [+] C:\Users\death\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar
+  [+] C:\Users\death\.m2\repository\javax\ejb\javax.ejb-api\3.2\javax.ejb-api-3.2.jar
+  [+] C:\Users\death\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar
+  [+] C:\Users\death\.m2\repository\javax\enterprise\cdi-api\2.0-EDR2\cdi-api-2.0-EDR2.jar
+  [+] C:\Users\death\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar
+  [+] C:\Users\death\.m2\repository\javax\interceptor\javax.interceptor-api\1.2\javax.interceptor-api-1.2.jar
+  [+] C:\Users\death\.m2\repository\javax\transaction\javax.transaction-api\1.2\javax.transaction-api-1.2.jar
+  [+] C:\Users\death\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar
+  [+] C:\Users\death\.m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar
+  [+] C:\Users\death\.m2\repository\org\hibernate\hibernate-core\5.2.4.Final\hibernate-core-5.2.4.Final.jar
+  [+] C:\Users\death\.m2\repository\org\hibernate\hibernate-entitymanager\5.2.4.Final\hibernate-entitymanager-5.2.4.Final.jar
+  [+] C:\Users\death\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar
+  [+] C:\Users\death\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\jandex\2.0.0.Final\jandex-2.0.0.Final.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:122)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:25.576
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:25.584
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:53.077
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:53.092
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.316
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.379
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.401
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.455
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.466
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.516
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.524
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.697
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:17:54.714
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:35.110
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:35.124
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.358
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.412
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.424
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.455
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.462
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.491
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.498
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.579
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:36.591
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:52.325
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:52.820
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:18:52.828
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:19:22.918
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:28.516
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:28.547
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:28.567
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:49.695
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:49.714
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:49.733
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:50.357
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.core.resources 4 368 2016-11-17 13:30:50.633
+!MESSAGE File not found: C:\Users\death\Documents\sda\core\project\ear\target\m2e-wtp\ear-resources\META-INF\application.xml.
+
+!ENTRY org.eclipse.core.resources 4 368 2016-11-17 13:30:50.755
+!MESSAGE File not found: C:\Users\death\Documents\sda\core\project\ear\target\m2e-wtp\ear-resources\META-INF\application.xml.
+
+!ENTRY org.eclipse.core.resources 4 368 2016-11-17 13:30:50.821
+!MESSAGE File not found: /ear/target/m2e-wtp/ear-resources/META-INF/application.xml.
+!STACK 0
+java.io.FileNotFoundException: C:\Users\death\Documents\sda\core\project\ear\target\m2e-wtp\ear-resources\META-INF\application.xml (System nie może odnaleźć określonej ścieżki)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:370)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.ensureOpened(ContentDescriptionManager.java:155)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager$LazyFileInputStream.read(ContentDescriptionManager.java:172)
+	at java.io.InputStream.read(InputStream.java:101)
+	at org.eclipse.core.internal.content.LazyInputStream.loadBlock(LazyInputStream.java:101)
+	at org.eclipse.core.internal.content.LazyInputStream.ensureAvailable(LazyInputStream.java:65)
+	at org.eclipse.core.internal.content.LazyInputStream.read(LazyInputStream.java:124)
+	at org.eclipse.core.internal.content.Util.getByteOrderMark(Util.java:119)
+	at org.eclipse.core.runtime.content.XMLContentDescriber.fillContentProperties(XMLContentDescriber.java:87)
+	at org.eclipse.core.runtime.content.XMLContentDescriber.describe2(XMLContentDescriber.java:64)
+	at org.eclipse.core.runtime.content.XMLContentDescriber.describe(XMLContentDescriber.java:59)
+	at org.eclipse.ant.internal.core.contentDescriber.AntBuildfileContentDescriber.describe(AntBuildfileContentDescriber.java:87)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.describe(ContentTypeCatalog.java:229)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.collectMatchingByContents(ContentTypeCatalog.java:201)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.internalFindContentTypesFor(ContentTypeCatalog.java:414)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.internalFindContentTypesFor(ContentTypeCatalog.java:461)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:357)
+	at org.eclipse.core.internal.content.ContentTypeCatalog.getDescriptionFor(ContentTypeCatalog.java:371)
+	at org.eclipse.core.internal.content.ContentTypeMatcher.getDescriptionFor(ContentTypeMatcher.java:76)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.readDescription(ContentDescriptionManager.java:453)
+	at org.eclipse.core.internal.resources.ContentDescriptionManager.getDescriptionFor(ContentDescriptionManager.java:363)
+	at org.eclipse.core.internal.resources.File.getContentDescription(File.java:263)
+	at org.eclipse.wst.common.componentcore.internal.impl.WTPResourceFactoryRegistry.getDescriptor(WTPResourceFactoryRegistry.java:452)
+	at org.eclipse.wst.common.componentcore.internal.impl.WTPResourceFactoryRegistry.getFactory(WTPResourceFactoryRegistry.java:85)
+	at org.eclipse.wst.common.componentcore.internal.impl.WTPResourceFactoryRegistry.getFactory(WTPResourceFactoryRegistry.java:106)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper$1.createResource(JavaEEEMFArchiveAdapterHelper.java:235)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandCreateResource(ResourceSetImpl.java:243)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:400)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper.getResource(JavaEEEMFArchiveAdapterHelper.java:121)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper.getModelObject(JavaEEEMFArchiveAdapterHelper.java:126)
+	at org.eclipse.jst.j2ee.internal.archive.ComponentArchiveLoadAdapter.getModelObject(ComponentArchiveLoadAdapter.java:805)
+	at org.eclipse.jst.jee.archive.internal.ArchiveImpl.getModelObject(ArchiveImpl.java:237)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.refineForJavaEE(JavaEEArchiveUtilities.java:395)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.openArchive(JavaEEArchiveUtilities.java:377)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.openBinaryArchive(JavaEEArchiveUtilities.java:297)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper$ArchiveCache.openArchive(JavaEEBinaryComponentHelper.java:612)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.openArchive(JavaEEBinaryComponentHelper.java:470)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getUniqueArchive(JavaEEBinaryComponentHelper.java:422)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getArchive(JavaEEBinaryComponentHelper.java:415)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getJavaEEQuickPeek(JavaEEBinaryComponentHelper.java:98)
+	at org.eclipse.jst.j2ee.project.JavaEEProjectUtilities.getJ2EEComponentType(JavaEEProjectUtilities.java:273)
+	at org.eclipse.jst.j2ee.componentcore.util.EARArtifactEdit.getComponentReferencesAsList(EARArtifactEdit.java:580)
+	at org.eclipse.jst.j2ee.componentcore.util.EARArtifactEdit.getUtilityModuleReferences(EARArtifactEdit.java:423)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider.computeChildren(J2EEUtilityJarItemProvider.java:112)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider.access$0(J2EEUtilityJarItemProvider.java:105)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider$UtilityJarResourceChangeListener.visit(J2EEUtilityJarItemProvider.java:283)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:64)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:48)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider$UtilityJarResourceChangeListener.resourceChanged(J2EEUtilityJarItemProvider.java:258)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.resources 4 2 2016-11-17 13:30:50.943
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+org.eclipse.emf.ecore.resource.impl.ResourceSetImpl$1DiagnosticWrappedException: java.io.FileNotFoundException: \ear\target\m2e-wtp\ear-resources\META-INF\application.xml
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.handleDemandLoadException(ResourceSetImpl.java:319)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:278)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper.getResource(JavaEEEMFArchiveAdapterHelper.java:121)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper.getModelObject(JavaEEEMFArchiveAdapterHelper.java:126)
+	at org.eclipse.jst.j2ee.internal.archive.ComponentArchiveLoadAdapter.getModelObject(ComponentArchiveLoadAdapter.java:805)
+	at org.eclipse.jst.jee.archive.internal.ArchiveImpl.getModelObject(ArchiveImpl.java:237)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.refineForJavaEE(JavaEEArchiveUtilities.java:395)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.openArchive(JavaEEArchiveUtilities.java:377)
+	at org.eclipse.jst.j2ee.internal.archive.JavaEEArchiveUtilities.openBinaryArchive(JavaEEArchiveUtilities.java:297)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper$ArchiveCache.openArchive(JavaEEBinaryComponentHelper.java:612)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.openArchive(JavaEEBinaryComponentHelper.java:470)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getUniqueArchive(JavaEEBinaryComponentHelper.java:422)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getArchive(JavaEEBinaryComponentHelper.java:415)
+	at org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentHelper.getJavaEEQuickPeek(JavaEEBinaryComponentHelper.java:98)
+	at org.eclipse.jst.j2ee.project.JavaEEProjectUtilities.getJ2EEComponentType(JavaEEProjectUtilities.java:273)
+	at org.eclipse.jst.j2ee.componentcore.util.EARArtifactEdit.getComponentReferencesAsList(EARArtifactEdit.java:580)
+	at org.eclipse.jst.j2ee.componentcore.util.EARArtifactEdit.getUtilityModuleReferences(EARArtifactEdit.java:423)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider.computeChildren(J2EEUtilityJarItemProvider.java:112)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider.access$0(J2EEUtilityJarItemProvider.java:105)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider$UtilityJarResourceChangeListener.visit(J2EEUtilityJarItemProvider.java:283)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:64)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:75)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:48)
+	at org.eclipse.jst.j2ee.internal.provider.J2EEUtilityJarItemProvider$UtilityJarResourceChangeListener.resourceChanged(J2EEUtilityJarItemProvider.java:258)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: \ear\target\m2e-wtp\ear-resources\META-INF\application.xml
+	at org.eclipse.wst.xml.core.internal.emf2xml.EMF2DOMSSERenderer.initializeXMLModel(EMF2DOMSSERenderer.java:355)
+	at org.eclipse.wst.xml.core.internal.emf2xml.EMF2DOMSSERenderer.loadDocument(EMF2DOMSSERenderer.java:418)
+	at org.eclipse.wst.common.internal.emf.resource.EMF2DOMRenderer.doLoad(EMF2DOMRenderer.java:62)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.basicDoLoad(TranslatorResourceImpl.java:153)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.doLoad(CompatibilityXMIResourceImpl.java:182)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.wst.common.internal.emf.resource.CompatibilityXMIResourceImpl.loadExisting(CompatibilityXMIResourceImpl.java:304)
+	at org.eclipse.jst.j2ee.common.internal.impl.XMLResourceImpl.loadExisting(XMLResourceImpl.java:331)
+	at org.eclipse.wst.common.internal.emf.resource.TranslatorResourceImpl.load(TranslatorResourceImpl.java:427)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	... 34 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:51.369
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:51.386
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:30:51.402
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2016-11-17 13:32:16.798
+!MESSAGE Full project indexing required:
+  [+] C:\Program Files\Java\jdk1.8.0_92\lib\tools.jar
+  [+] C:\Users\death\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.5.0\jackson-annotations-2.5.0.jar
+  [+] C:\Users\death\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.5.1\jackson-core-2.5.1.jar
+  [+] C:\Users\death\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.5.1\jackson-databind-2.5.1.jar
+  [+] C:\Users\death\.m2\repository\com\fasterxml\jackson\jaxrs\jackson-jaxrs-base\2.5.1\jackson-jaxrs-base-2.5.1.jar
+  [+] C:\Users\death\.m2\repository\com\google\guava\guava\13.0.1\guava-13.0.1.jar
+  [+] C:\Users\death\.m2\repository\com\meterware\simplestub\simplestub\1.0.4\simplestub-1.0.4.jar
+  [+] C:\Users\death\.m2\repository\com\sun\mail\javax.mail\1.5.4\javax.mail-1.5.4.jar
+  [+] C:\Users\death\.m2\repository\com\sun\xml\bind\jaxb-extra-osgi\2.2.12-b141219.1637\jaxb-extra-osgi-2.2.12-b141219.1637.jar
+  [+] C:\Users\death\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.12-b141219.1637\jaxb-osgi-2.2.12-b141219.1637.jar
+  [+] C:\Users\death\.m2\repository\commons-logging\commons-logging\1.1.2\commons-logging-1.1.2.jar
+  [+] C:\Users\death\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar
+  [+] C:\Users\death\.m2\repository\javax\annotation\javax.annotation-api\1.2\javax.annotation-api-1.2.jar
+  [+] C:\Users\death\.m2\repository\javax\enterprise\deploy\javax.enterprise.deploy-api\1.6\javax.enterprise.deploy-api-1.6.jar
+  [+] C:\Users\death\.m2\repository\javax\jms\javax.jms-api\2.0.1\javax.jms-api-2.0.1.jar
+  [+] C:\Users\death\.m2\repository\javax\mail\javax.mail-api\1.5.4\javax.mail-api-1.5.4.jar
+  [+] C:\Users\death\.m2\repository\javax\management\j2ee\javax.management.j2ee-api\1.1.1\javax.management.j2ee-api-1.1.1.jar
+  [+] C:\Users\death\.m2\repository\javax\resource\javax.resource-api\1.7\javax.resource-api-1.7.jar
+  [+] C:\Users\death\.m2\repository\javax\security\auth\message\javax.security.auth.message-api\1.1\javax.security.auth.message-api-1.1.jar
+  [+] C:\Users\death\.m2\repository\javax\security\jacc\javax.security.jacc-api\1.5\javax.security.jacc-api-1.5.jar
+  [+] C:\Users\death\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar
+  [+] C:\Users\death\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.2-b01\javax.servlet.jsp-api-2.3.2-b01.jar
+  [+] C:\Users\death\.m2\repository\javax\validation\validation-api\1.1.0.Final\validation-api-1.1.0.Final.jar
+  [+] C:\Users\death\.m2\repository\javax\xml\bind\jaxb-api\2.2.13-b141020.1521\jaxb-api-2.2.13-b141020.1521.jar
+  [+] C:\Users\death\.m2\repository\javax\xml\registry\javax.xml.registry-api\1.0.7\javax.xml.registry-api-1.0.7.jar
+  [+] C:\Users\death\.m2\repository\javax\xml\rpc\javax.xml.rpc-api\1.1\javax.xml.rpc-api-1.1.jar
+  [+] C:\Users\death\.m2\repository\org\apache\felix\org.osgi.core\1.2.0\org.osgi.core-1.2.0.jar
+  [+] C:\Users\death\.m2\repository\org\apache\santuario\xmlsec\1.5.8\xmlsec-1.5.8.jar
+  [+] C:\Users\death\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.1\stax2-api-3.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.2.0\woodstox-core-asl-4.2.0.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\javax.persistence\2.1.0\javax.persistence-2.1.0.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.6.1-RC1\org.eclipse.persistence.antlr-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\2.6.1-RC1\org.eclipse.persistence.asm-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.6.1-RC1\org.eclipse.persistence.core-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.dbws\2.6.1-RC1\org.eclipse.persistence.dbws-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.6.1-RC1\org.eclipse.persistence.jpa.jpql-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.6.1-RC1\org.eclipse.persistence.jpa.modelgen.processor-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.6.1-RC1\org.eclipse.persistence.jpa-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.6.1-RC1\org.eclipse.persistence.moxy-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.oracle\2.6.1-RC1\org.eclipse.persistence.oracle-2.6.1-RC1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\corba\exception-annotation-processor\4.0.1\exception-annotation-processor-4.0.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\corba\glassfish-corba-csiv2-idl\4.0.1\glassfish-corba-csiv2-idl-4.0.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\corba\glassfish-corba-internal-api\4.0.1\glassfish-corba-internal-api-4.0.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\corba\glassfish-corba-omgapi\4.0.1\glassfish-corba-omgapi-4.0.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\corba\glassfish-corba-orb\4.0.1\glassfish-corba-orb-4.0.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\external\asm-all\3.3\asm-all-3.3.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\external\management-api\3.2.1-b002\management-api-3.2.1-b002.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\gmbal\gmbal-api-only\3.0.0-b023\gmbal-api-only-3.0.0-b023.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\gmbal\gmbal\4.0.0-b001\gmbal-4.0.0-b001.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\grizzly\grizzly-framework\2.2.10\grizzly-framework-2.2.10.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\grizzly\grizzly-http-server\2.3.23\grizzly-http-server-2.3.23.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\grizzly\grizzly-http-servlet\2.3.23\grizzly-http-servlet-2.3.23.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\grizzly\grizzly-http\2.3.23\grizzly-http-2.3.23.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\grizzly\grizzly-portunif\2.3.23\grizzly-portunif-2.3.23.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\ha\ha-api\3.1.8\ha-api-3.1.8.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\class-model\2.4.0-b31\class-model-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\config-types\2.4.0-b31\config-types-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\external\aopalliance-repackaged\2.4.0-b31\aopalliance-repackaged-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\external\asm-all-repackaged\2.4.0-b31\asm-all-repackaged-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\external\bean-validator\2.4.0-b31\bean-validator-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\external\javax.inject\2.4.0-b31\javax.inject-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-api\2.4.0-b31\hk2-api-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-config\2.4.0-b31\hk2-config-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-core\2.4.0-b31\hk2-core-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-locator\2.4.0-b31\hk2-locator-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-runlevel\2.4.0-b31\hk2-runlevel-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2-utils\2.4.0-b31\hk2-utils-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\hk2\hk2\2.4.0-b31\hk2-2.4.0-b31.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\javax.el\3.0.1-b08\javax.el-3.0.1-b08.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\javax.json\1.0.4\javax.json-1.0.4.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\admin\admin-core\4.1.1\admin-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\admin\admin-util\4.1.1\admin-util-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\admin\config-api\4.1.1\config-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\admin\monitoring-core\4.1.1\monitoring-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\appclient\acc-config\4.1.1\acc-config-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\appclient\gf-client-module\4.1.1\gf-client-module-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\appclient\gf-client\4.1.1\gf-client-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\appclient\server\appclient-connector\4.1.1\appclient-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\cluster\gms-bootstrap\4.1.1\gms-bootstrap-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\amx-core\4.1.1\amx-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\amx-javaee\4.1.1\amx-javaee-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\annotation-framework\4.1.1\annotation-framework-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\common-util\4.1.1\common-util-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\container-common\4.1.1\container-common-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\glassfish-api\4.1.1\glassfish-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\glassfish-ee-api\4.1.1\glassfish-ee-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\glassfish-mbeanserver\4.1.1\glassfish-mbeanserver-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\glassfish-naming\4.1.1\glassfish-naming-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\internal-api\4.1.1\internal-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\scattered-archive-api\4.1.1\scattered-archive-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\simple-glassfish-api\4.1.1\simple-glassfish-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\common\stats77\4.1.1\stats77-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\connectors\connectors-inbound-runtime\4.1.1\connectors-inbound-runtime-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\connectors\connectors-internal-api\4.1.1\connectors-internal-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\connectors\connectors-runtime\4.1.1\connectors-runtime-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\connectors\gf-connectors-connector\4.1.1\gf-connectors-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\connectors\work-management\4.1.1\work-management-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\core\api-exporter\4.1.1\api-exporter-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\core\glassfish\4.1.1\glassfish-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\core\kernel\4.1.1\kernel-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\core\logging\4.1.1\logging-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\deployment\deployment-common\4.1.1\deployment-common-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\deployment\deployment-javaee-core\4.1.1\deployment-javaee-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\deployment\dol\4.1.1\dol-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\ejb\ejb-client\4.1.1\ejb-client-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\ejb\ejb-container\4.1.1\ejb-container-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\ejb\ejb-full-container\4.1.1\ejb-full-container-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\ejb\ejb-internal-api\4.1.1\ejb-internal-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\ejb\gf-ejb-connector\4.1.1\gf-ejb-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\external\jmxremote_optional-repackaged\4.1.1\jmxremote_optional-repackaged-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\external\ldapbp-repackaged\4.1.1\ldapbp-repackaged-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\external\libpam4j-repackaged\4.1.1\libpam4j-repackaged-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\flashlight\flashlight-framework\4.1.1\flashlight-framework-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\grizzly\grizzly-config\4.1.1\grizzly-config-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\grizzly\nucleus-grizzly-all\4.1.1\nucleus-grizzly-all-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\jms\gf-jms-connector\4.1.1\gf-jms-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\jms\jms-core\4.1.1\jms-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\orb\orb-connector\4.1.1\orb-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\orb\orb-enabler\4.1.1\orb-enabler-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\orb\orb-iiop\4.1.1\orb-iiop-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\persistence\cmp\cmp-internal-api\4.1.1\cmp-internal-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\persistence\jpa-container\4.1.1\jpa-container-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\persistence\persistence-common\4.1.1\persistence-common-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\resourcebase\resources\nucleus-resources\4.1.1\nucleus-resources-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\resources\javamail-connector\4.1.1\javamail-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\resources\javamail-runtime\4.1.1\javamail-runtime-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\resources\resources-connector\4.1.1\resources-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\appclient.security\4.1.1\appclient.security-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\ejb.security\4.1.1\ejb.security-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\jaspic.provider.framework\4.1.1\jaspic.provider.framework-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\security-ee\4.1.1\security-ee-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\security-services\4.1.1\security-services-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\security\4.1.1\security-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\ssl-impl\4.1.1\ssl-impl-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\websecurity\4.1.1\websecurity-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\security\webservices.security\4.1.1\webservices.security-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\transaction\jta\4.1.1\jta-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\transaction\jts\4.1.1\jts-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\transaction\transaction-internal-api\4.1.1\transaction-internal-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\gf-web-connector\4.1.1\gf-web-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\war-util\4.1.1\war-util-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-cli\4.1.1\web-cli-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-core\4.1.1\web-core-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-embed-api\4.1.1\web-embed-api-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-glue\4.1.1\web-glue-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-gui-plugin-common\4.1.1\web-gui-plugin-common-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-naming\4.1.1\web-naming-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\web\web-sse\4.1.1\web-sse-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\webservices\jsr109-impl\4.1.1\jsr109-impl-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\main\webservices\webservices-connector\4.1.1\webservices-connector-4.1.1.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\metro\webservices-api-osgi\2.3.2-b608\webservices-api-osgi-2.3.2-b608.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\metro\webservices-extra-jdk-packages\2.3.2-b608\webservices-extra-jdk-packages-2.3.2-b608.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\metro\webservices-osgi\2.3.2-b608\webservices-osgi-2.3.2-b608.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-asm\4.0.0-b004\pfl-asm-4.0.0-b004.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-basic-tools\4.0.0-b003\pfl-basic-tools-4.0.0-b003.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-basic\4.0.0-b004\pfl-basic-4.0.0-b004.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-dynamic\4.0.0-b004\pfl-dynamic-4.0.0-b004.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-tf-tools\4.0.0-b003\pfl-tf-tools-4.0.0-b003.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\pfl\pfl-tf\4.0.0-b003\pfl-tf-4.0.0-b003.jar
+  [+] C:\Users\death\.m2\repository\org\glassfish\web\javax.servlet.jsp\2.3.3-b02\javax.servlet.jsp-2.3.3-b02.jar
+  [+] C:\Users\death\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+  [+] C:\Users\death\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\classfilewriter\jboss-classfilewriter\1.0.5.Final\jboss-classfilewriter-1.0.5.Final.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\spec\javax\annotation\jboss-annotations-api_1.2_spec\1.0.0.Alpha1\jboss-annotations-api_1.2_spec-1.0.0.Alpha1.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\spec\javax\el\jboss-el-api_3.0_spec\1.0.0.Alpha1\jboss-el-api_3.0_spec-1.0.0.Alpha1.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\spec\javax\interceptor\jboss-interceptors-api_1.2_spec\1.0.0.Alpha3\jboss-interceptors-api_1.2_spec-1.0.0.Alpha3.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\weld\environment\weld-environment-common\2.2.13.Final\weld-environment-common-2.2.13.Final.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\weld\se\weld-se-core\2.2.13.Final\weld-se-core-2.2.13.Final.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\weld\weld-api\2.2.SP4\weld-api-2.2.SP4.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\weld\weld-core-impl\2.2.13.Final\weld-core-impl-2.2.13.Final.jar
+  [+] C:\Users\death\.m2\repository\org\jboss\weld\weld-spi\2.2.SP4\weld-spi-2.2.SP4.jar
+  [+] C:\Users\death\.m2\repository\org\jvnet\mimepull\mimepull\1.9.4\mimepull-1.9.4.jar
+  [+] C:\Users\death\.m2\repository\org\jvnet\tiger-types\1.4\tiger-types-1.4.jar
+  [+] C:\Users\death\.m2\repository\org\shoal\shoal-gms-api\1.6.18\shoal-gms-api-1.6.18.jar
+  [+] C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\appserv-rt.jar
+  [+] C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\javaee.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:17.780
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:17.792
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:17.806
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:18.338
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:19.079
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:19.092
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:19.101
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:20.149
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-17 13:32:20.159
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2016-11-18 11:53:56.899 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-11-18 11:54:00.772
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-18 11:54:23.611
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\death'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:37.098
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:37.150
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:37.181
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:41.159
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:41.180
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:41.202
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:46.444
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:46.457
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:47.213
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:47.225
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:48.532
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:48.608
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:50.018
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:50.041
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:50.088
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:50.713
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:50.727
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:51.016
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:51.035
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:51.554
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:51.592
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:56.315
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:56.366
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:56.441
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:57.525
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:58.641
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:58.653
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:54:58.666
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:02.077
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:02.088
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:02.103
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:04.298
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:04.878
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:04.887
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:04.932
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:07.537
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:55:07.559
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.j2ee.ejb 4 0 2016-11-18 11:56:38.272
+!MESSAGE IWAE0006E Archive is not a valid EJB JAR File because the deployment descriptor can not be found (case sensitive): META-INF/ejb-jar.xml
+
+!STACK 0
+org.eclipse.jst.j2ee.commonarchivecore.internal.exception.OpenFailureException: IWAE0006E Archive is not a valid EJB JAR File because the deployment descriptor can not be found (case sensitive): META-INF/ejb-jar.xml
+
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.CommonarchiveFactoryImpl.openSpecificArchive(CommonarchiveFactoryImpl.java:821)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.CommonarchiveFactoryImpl.openSpecificArchive(CommonarchiveFactoryImpl.java:832)
+	at org.eclipse.jst.j2ee.commonarchivecore.internal.impl.CommonarchiveFactoryImpl.openEJBJarFile(CommonarchiveFactoryImpl.java:706)
+	at org.eclipse.jst.j2ee.ejb.componentcore.util.EJBArtifactEdit.asArchive(EJBArtifactEdit.java:579)
+	at org.eclipse.jst.j2ee.componentcore.EnterpriseArtifactEdit.asArchive(EnterpriseArtifactEdit.java:274)
+	at org.eclipse.jst.j2ee.internal.ejb.workbench.validation.EJBHelper.loadEjbModel(EJBHelper.java:522)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.wst.validation.internal.operations.WorkbenchContext.loadModel(WorkbenchContext.java:558)
+	at org.eclipse.jst.j2ee.internal.ejb.workbench.validation.EJBHelper.loadModel(EJBHelper.java:279)
+	at org.eclipse.wst.validation.internal.operations.WorkbenchContext.loadModel(WorkbenchContext.java:542)
+	at org.eclipse.jst.j2ee.model.internal.validation.EJBValidationContext.loadModel(EJBValidationContext.java:115)
+	at org.eclipse.jst.j2ee.model.internal.validation.EJBValidator.fullValidate(EJBValidator.java:384)
+	at org.eclipse.jst.j2ee.model.internal.validation.EJBValidator.commonValidate(EJBValidator.java:82)
+	at org.eclipse.jst.j2ee.model.internal.validation.EJBValidator.validateInJob(EJBValidator.java:108)
+	at org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator.validateInJob(UIEjbValidator.java:53)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:40.100
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:40.129
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:40.171
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.046
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.179
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.197
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.285
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.299
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.347
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.360
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.466
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:41.477
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:42.050
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:42.062
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 11:56:42.070
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.jface 2 0 2016-11-18 12:04:17.881
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-18 12:04:17.881
+!MESSAGE A conflict occurred for CTRL+J:
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.findIncremental,Incremental Find,
+		Incremental find,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@378a5302,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51ea9f02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51ea9f02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:04:30.487
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:04:30.499
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:04:30.509
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:36.155
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:36.165
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:36.176
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:54.916
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:54.935
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:05:54.953
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.ui 4 0 2016-11-18 12:06:43.270
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: basedir ${project_loc:project} does not exist
+	at org.codehaus.plexus.util.DirectoryScanner.scan(DirectoryScanner.java:308)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker$MavenConsoleHyperLink.linkActivated(MavenConsoleLineTracker.java:226)
+	at org.eclipse.ui.console.TextConsoleViewer$2.handleEvent(TextConsoleViewer.java:121)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui 4 0 2016-11-18 12:06:43.942
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: basedir ${project_loc:project} does not exist
+	at org.codehaus.plexus.util.DirectoryScanner.scan(DirectoryScanner.java:308)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker$MavenConsoleHyperLink.linkActivated(MavenConsoleLineTracker.java:226)
+	at org.eclipse.ui.console.TextConsoleViewer$2.handleEvent(TextConsoleViewer.java:121)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui 4 0 2016-11-18 12:06:46.078
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: basedir ${project_loc:project} does not exist
+	at org.codehaus.plexus.util.DirectoryScanner.scan(DirectoryScanner.java:308)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker$MavenConsoleHyperLink.linkActivated(MavenConsoleLineTracker.java:226)
+	at org.eclipse.ui.console.TextConsoleViewer$2.handleEvent(TextConsoleViewer.java:121)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:07:26.685
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:07:26.695
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:07:26.705
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:33.970
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:33.984
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:33.992
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:42.065
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:42.079
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:16:42.092
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:20:29.894
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:20:29.908
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:20:29.919
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.831
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.852
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.873
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.890
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.918
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:07.929
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:09.055
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:09.831
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:09.841
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:09.851
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:13.875
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:13.888
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:13.937
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:14.567
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:15.456
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:15.538
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:22:15.654
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:23:40.411
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:23:40.990
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b06-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:23:41.001
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b07-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:23:41.011
+!MESSAGE The POM for org.glassfish:javax.el:jar:3.0.1-b08-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:23:41.408
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:24:31.339
+!MESSAGE client-acc Utility Facet configuration is aborted as the Java Configuration is inconsistent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:24:33.389
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:24:34.688
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:24:34.706
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:28:23.445
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.common.modulecore 4 0 2016-11-18 12:38:14.061
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter.newPlatformURI(ComponentCoreURIConverter.java:102)
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter.access$0(ComponentCoreURIConverter.java:93)
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter$1.delegatedGetURI(ComponentCoreURIConverter.java:173)
+	at org.eclipse.emf.ecore.resource.impl.URIMappingRegistryImpl.getURI(URIMappingRegistryImpl.java:120)
+	at org.eclipse.emf.ecore.resource.impl.URIMappingRegistryImpl$URIMapImpl.getURI(URIMappingRegistryImpl.java:162)
+	at org.eclipse.jem.internal.util.emf.workbench.WorkspaceResourceHandler.getResource(WorkspaceResourceHandler.java:47)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResourceFromHandlers(ProjectResourceSetImpl.java:836)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.delegatedGetResource(ProjectResourceSetImpl.java:689)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:1041)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.createModelResource(JEE5ModelProvider.java:203)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelResource(JEE5ModelProvider.java:188)
+	at org.eclipse.jst.jee.model.internal.AppClient5ModelProvider.getModelObject(AppClient5ModelProvider.java:42)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelObject(JEE5ModelProvider.java:231)
+	at org.eclipse.jst.jee.ui.internal.navigator.AppClient5ContentProvider.getNewContentProviderInstance(AppClient5ContentProvider.java:75)
+	at org.eclipse.jst.jee.ui.internal.navigator.LoadingJeeDDJob.run(LoadingJeeDDJob.java:50)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.common.modulecore 4 0 2016-11-18 12:38:14.117
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter.newPlatformURI(ComponentCoreURIConverter.java:102)
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter.access$0(ComponentCoreURIConverter.java:93)
+	at org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter$1.delegatedGetURI(ComponentCoreURIConverter.java:173)
+	at org.eclipse.emf.ecore.resource.impl.URIMappingRegistryImpl.getURI(URIMappingRegistryImpl.java:120)
+	at org.eclipse.emf.ecore.resource.impl.URIMappingRegistryImpl$URIMapImpl.getURI(URIMappingRegistryImpl.java:162)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.detectURIMapping(ProjectResourceSetImpl.java:761)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.createResource(ProjectResourceSetImpl.java:779)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.createModelResource(JEE5ModelProvider.java:206)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelResource(JEE5ModelProvider.java:188)
+	at org.eclipse.jst.jee.model.internal.AppClient5ModelProvider.getModelObject(AppClient5ModelProvider.java:42)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelObject(JEE5ModelProvider.java:231)
+	at org.eclipse.jst.jee.ui.internal.navigator.AppClient5ContentProvider.getNewContentProviderInstance(AppClient5ContentProvider.java:75)
+	at org.eclipse.jst.jee.ui.internal.navigator.LoadingJeeDDJob.run(LoadingJeeDDJob.java:50)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-11-18 12:38:14.147
+!MESSAGE An internal error occurred during: "Loading descriptor for client-acc-sec.".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.detectURIMapping(ProjectResourceSetImpl.java:761)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.createResource(ProjectResourceSetImpl.java:779)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.createModelResource(JEE5ModelProvider.java:206)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelResource(JEE5ModelProvider.java:188)
+	at org.eclipse.jst.jee.model.internal.AppClient5ModelProvider.getModelObject(AppClient5ModelProvider.java:42)
+	at org.eclipse.jst.jee.model.internal.JEE5ModelProvider.getModelObject(JEE5ModelProvider.java:231)
+	at org.eclipse.jst.jee.ui.internal.navigator.AppClient5ContentProvider.getNewContentProviderInstance(AppClient5ContentProvider.java:75)
+	at org.eclipse.jst.jee.ui.internal.navigator.LoadingJeeDDJob.run(LoadingJeeDDJob.java:50)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:59:41.688
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 12:59:41.705
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 13:08:13.573
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 13:08:13.590
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 13:21:11.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-11-18 13:21:11.348
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

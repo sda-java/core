@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>root</groupId>
+		<artifactId>project</artifactId>
+		<version>1.0</version>
+	</parent>
+	<groupId>root</groupId>
+	<artifactId>client-acc</artifactId>
+	<version>1.0</version>
+	<name>client-acc</name>
+	<url>http://maven.apache.org</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>root.project</groupId>
+			<artifactId>ejbs</artifactId>
+			<type>ejb</type>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.glassfish.main.appclient</groupId>
+			<artifactId>gf-client</artifactId>
+			<version>4.1.1</version>
+			<scope>system</scope>
+			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\gf-client.jar</systemPath>
+		</dependency>
+
+		<dependency>
+			<groupId>org.glassfish.main.extras</groupId>
+			<artifactId>appserv-rt</artifactId>
+			<version>4.1.1</version>
+			<scope>system</scope>
+			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\appserv-rt.jar</systemPath>
+		</dependency>
+
+		<dependency>
+			<groupId>org.glassfish.main.extras</groupId>
+			<artifactId>javaee</artifactId>
+			<version>4.1.1</version>
+			<scope>system</scope>
+			<systemPath>C:\dev\java_ee_sdk-7u2\glassfish4\glassfish\lib\javaee.jar</systemPath>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.2</version>
+				<configuration>
+					<archive>
+						<index>true</index>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<mainClass>org.client.acc.App</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
