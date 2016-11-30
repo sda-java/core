@@ -2,3 +2,5 @@
 1479221797564	Copy compilation unit
 1479299842104	Move package
 1479299860346	Rename package 'servlet'
+1479480564511	Copy compilation unit
+1479482082636	Rename local variable 'session'

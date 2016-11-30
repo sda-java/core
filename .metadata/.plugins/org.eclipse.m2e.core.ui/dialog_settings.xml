@@ -2,14 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="root.project"/>
 		</list>
 		<list key="name">
-			<item value="myEjb"/>
 		</list>
 		<list key="artifactId">
-			<item value="myEjb"/>
-			<item value="projects"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -20,7 +16,6 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
@@ -87,12 +82,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="root.project.sockets"/>
 			<item value="org.myEjb"/>
 		</list>
 		<list key="groupId">
 			<item value="root.project"/>
 		</list>
 		<list key="artifactId">
+			<item value="sockets"/>
 			<item value="myEjb"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -104,6 +101,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 			<item value="1.0"/>
 		</list>
 	</section>

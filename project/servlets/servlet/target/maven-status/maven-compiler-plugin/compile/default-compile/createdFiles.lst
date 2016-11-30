@@ -1,1 +1,6 @@
+com\test\HelloServletFilter.class
 com\test\MyEjbServlet.class
+com\test\PersistServlet.class
+com\test\HelloServlet2.class
+com\test\HelloServlet.class
+com\test\LoginServlet.class

@@ -16,6 +16,8 @@ import myEjb.MyTestRemote;
 @WebServlet("/MyEjbServlet")
 public class MyEjbServlet extends HttpServlet {
 
+	private static final long serialVersionUID = 1L;
+
 	@EJB(beanName = "myEjb1")
 	private MyTestRemote myTestRemote;
 

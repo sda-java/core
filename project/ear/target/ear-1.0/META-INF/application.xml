@@ -5,13 +5,13 @@
 <application>
   <display-name>ear</display-name>
   <module>
-    <ejb>ejbs-1.0.jar</ejb>
-  </module>
-  <module>
     <web>
       <web-uri>servlet-1.0.war</web-uri>
-      <context-root>/servlet</context-root>
+      <context-root>/myNewContext</context-root>
     </web>
+  </module>
+  <module>
+    <ejb>ejbs-1.0.jar</ejb>
   </module>
   <module>
     <ejb>myEjb-1.0.jar</ejb>

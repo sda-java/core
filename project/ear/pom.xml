@@ -50,6 +50,13 @@
 			<plugin>
 				<artifactId>maven-ear-plugin</artifactId>
 				<configuration>
+					<modules>
+						<webModule>
+							<groupId>root.project.servlets</groupId>
+							<artifactId>servlet</artifactId>
+							<contextRoot>/myNewContext</contextRoot>
+						</webModule>
+					</modules>
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
